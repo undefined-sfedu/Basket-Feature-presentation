@@ -115,6 +115,7 @@
   margin-right: var(--dl-space-space-unit);
   flex-direction: column;
   background-color: var(--dl-color-gray-white);
+  max-height: 660px;
 }
 .home-text26 {
   font-size: 40px;
@@ -151,6 +152,7 @@
   margin-right: var(--dl-space-space-unit);
   flex-direction: column;
   background-color: var(--dl-color-gray-white);
+  max-height: 660px;
 }
 .home-text28 {
   font-size: 40px;
@@ -188,6 +190,7 @@
   margin-right: var(--dl-space-space-unit);
   flex-direction: column;
   background-color: var(--dl-color-gray-white);
+  max-height: 660px;
 }
 .home-text30 {
   font-size: 40px;
